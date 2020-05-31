@@ -1,0 +1,36 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/active/active"
+  ],
+  "window": {
+    "backgroundColor": "#000",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "游乐圈",
+    "navigationBarTextStyle": "white"
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2",
+  "tabBar": {
+    "backgroundColor": "#000",
+    "color": "#fff",
+    "selectedColor": "blue",
+    "borderStyle": "black",
+    "position": "bottom",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index",
+        "iconPath": "images/icon_cart@3x.png",
+        "selectedIconPath": "images/icon_cart_active@3x.png"
+      },
+      {
+        "text": "活动",
+        "pagePath": "pages/active/active",
+        "iconPath": "images/icon_category@3x.png",
+        "selectedIconPath": "images/icon_category_active@3x.png"
+      }
+    ]
+  }
+}

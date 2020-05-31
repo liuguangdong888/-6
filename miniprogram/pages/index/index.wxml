@@ -1,0 +1,17 @@
+    <swiper circular autoplay indicator-dots>
+        <swiper-item>
+            <image src="../../images/swiper/slide_1.jpg"></image>
+        </swiper-item>
+        <swiper-item>
+            <image src="../../images/swiper/slide_2.jpg" />
+        </swiper-item>
+        <swiper-item>
+            <image src="../../images/swiper/slide_3.jpg" />
+        </swiper-item>
+        <swiper-item>
+            <image src="../../images/swiper/slide_4.jpg" />
+        </swiper-item>
+        <swiper-item>
+            <image src="../../images/swiper/slide_5.jpg" />
+        </swiper-item>
+    </swiper>
